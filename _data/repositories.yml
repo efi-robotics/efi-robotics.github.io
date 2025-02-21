@@ -1,14 +1,17 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - efipsom
+  - dexterousrobot
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - efipsom/SenseGlove-API
+  - efipsom/BRL_Remote_Feelings
+  - grablab/openhand_node
+  - efipsom/3D3FController
+  - bulletphysics/pybullet_robots
+  - efipsom/tactile_sim
+  - EpicGames/Signup
+  - efipsom/allegro_hand_linux_v4
+  - deepmind/mujoco
+  - ipc-sim/ipc-toolkit

@@ -1,10 +1,10 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Lepora":
+  - firstname: ["Nathan", "N.", "N. F.", "Nathan F."]
+    url: https://lepora.com/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Doulgeri":
+  - firstname: ["Zoe", "Z."]
+    url: https://scholar.google.com/citations?user=ubUmUrcAAAAJ&hl=en
 
 "rosen":
   - firstname: ["Nathan", "N."]
