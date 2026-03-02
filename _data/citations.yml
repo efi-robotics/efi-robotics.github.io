@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-20'
+  last_updated: '2026-03-02'
 papers:
   kVyW-LEAAAAJ:0EnyYjriUFMC:
     citations: 15
@@ -10,7 +10,7 @@ papers:
     title: A human inspired stable object load transfer for robots in hand-over tasks
     year: '2015'
   kVyW-LEAAAAJ:3fE2CSJIrl8C:
-    citations: 39
+    citations: 42
     title: 'Anyrotate: Gravity-invariant in-hand object rotation with sim-to-real touch'
     year: '2024'
   kVyW-LEAAAAJ:4DMP91E08xMC:
@@ -50,7 +50,7 @@ papers:
     title: 'Tactile SoftHand-A: 3D-printed, tactile, highly underactuated, anthropomorphic robot hand with an antagonistic tendon mechanism'
     year: '2024'
   kVyW-LEAAAAJ:MXK_kJrjxJIC:
-    citations: 23
+    citations: 25
     title: 'Biotactip: A soft biomimetic optical tactile sensor for efficient 3d contact localization and 3d force estimation'
     year: '2024'
   kVyW-LEAAAAJ:QIV2ME_5wuYC:
@@ -110,7 +110,7 @@ papers:
     title: A robust controller for stable 3d pinching using tactile sensing
     year: '2021'
   kVyW-LEAAAAJ:_kc_bZDykSQC:
-    citations: 1
+    citations: 2
     title: Learning Fine Pinch-Grasp Skills using Tactile Sensing from A Few Real-world Demonstrations
     year: '2023'
   kVyW-LEAAAAJ:d1gkVwhDpl0C:
@@ -130,7 +130,7 @@ papers:
     title: 'AnyRotate: Gravity-Invariant In-Hand Rotation with Sim-to-Real Touch'
     year: Unknown Year
   kVyW-LEAAAAJ:mVmsd5A6BfQC:
-    citations: 0
+    citations: 1
     title: 'Text2Touch: Tactile In-Hand Manipulation with LLM-Designed Reward Functions'
     year: '2025'
   kVyW-LEAAAAJ:qjMakFHDy7sC:
@@ -138,7 +138,7 @@ papers:
     title: Stable pinching by controlling finger relative orientation of robotic fingers with rolling soft tips
     year: '2018'
   kVyW-LEAAAAJ:qxL8FJ1GzNcC:
-    citations: 7
+    citations: 9
     title: 'Classification of vision-based tactile sensors: A review'
     year: '2025'
   kVyW-LEAAAAJ:roLk4NBRz8UC:
