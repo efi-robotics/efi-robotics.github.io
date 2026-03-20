@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-18'
+  last_updated: '2026-03-20'
 papers:
   kVyW-LEAAAAJ:0EnyYjriUFMC:
     citations: 15
@@ -50,7 +50,7 @@ papers:
     title: 'Tactile SoftHand-A: 3D-printed, tactile, highly underactuated, anthropomorphic robot hand with an antagonistic tendon mechanism'
     year: '2024'
   kVyW-LEAAAAJ:MXK_kJrjxJIC:
-    citations: 25
+    citations: 26
     title: 'Biotactip: A soft biomimetic optical tactile sensor for efficient 3d contact localization and 3d force estimation'
     year: '2024'
   kVyW-LEAAAAJ:QIV2ME_5wuYC:
