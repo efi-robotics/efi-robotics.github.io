@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-23'
+  last_updated: '2026-03-30'
 papers:
   kVyW-LEAAAAJ:0EnyYjriUFMC:
     citations: 15
@@ -10,7 +10,7 @@ papers:
     title: A human inspired stable object load transfer for robots in hand-over tasks
     year: '2015'
   kVyW-LEAAAAJ:3fE2CSJIrl8C:
-    citations: 44
+    citations: 45
     title: 'Anyrotate: Gravity-invariant in-hand object rotation with sim-to-real touch'
     year: '2024'
   kVyW-LEAAAAJ:4DMP91E08xMC:
@@ -106,7 +106,7 @@ papers:
     title: 'BioTacTip: A Soft Biomimetic Optical Tactile Sensor for Efficient'
     year: Unknown Year
   kVyW-LEAAAAJ:_FxGoFyzp5QC:
-    citations: 20
+    citations: 21
     title: A robust controller for stable 3d pinching using tactile sensing
     year: '2021'
   kVyW-LEAAAAJ:_kc_bZDykSQC:
@@ -134,7 +134,7 @@ papers:
     title: 'Text2Touch: Tactile In-Hand Manipulation with LLM-Designed Reward Functions'
     year: '2025'
   kVyW-LEAAAAJ:qjMakFHDy7sC:
-    citations: 17
+    citations: 18
     title: Stable pinching by controlling finger relative orientation of robotic fingers with rolling soft tips
     year: '2018'
   kVyW-LEAAAAJ:qxL8FJ1GzNcC:
