@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-30'
+  last_updated: '2026-04-17'
 papers:
   kVyW-LEAAAAJ:0EnyYjriUFMC:
     citations: 15
@@ -10,7 +10,7 @@ papers:
     title: A human inspired stable object load transfer for robots in hand-over tasks
     year: '2015'
   kVyW-LEAAAAJ:3fE2CSJIrl8C:
-    citations: 45
+    citations: 47
     title: 'Anyrotate: Gravity-invariant in-hand object rotation with sim-to-real touch'
     year: '2024'
   kVyW-LEAAAAJ:4DMP91E08xMC:
@@ -18,7 +18,7 @@ papers:
     title: Accurate image specular highlight removal based on light field imaging. In 2015 Visual Communications and Image Processing (VCIP)
     year: '2015'
   kVyW-LEAAAAJ:4TOpqqG69KYC:
-    citations: 14
+    citations: 15
     title: Shear-based grasp control for multi-fingered underactuated tactile robotic hands
     year: '2025'
   kVyW-LEAAAAJ:5nxA0vEk-isC:
@@ -46,9 +46,13 @@ papers:
     title: Using current measurement to estimate palpation and grasping forces in robot-assisted minimally invasive surgery
     year: '2018'
   kVyW-LEAAAAJ:KlAtU1dfN6UC:
-    citations: 13
+    citations: 14
     title: 'Tactile SoftHand-A: 3D-printed, tactile, highly underactuated, anthropomorphic robot hand with an antagonistic tendon mechanism'
     year: '2024'
+  kVyW-LEAAAAJ:L8Ckcad2t8MC:
+    citations: 0
+    title: 'How to Train your Tactile Model: Tactile Perception with Multi-fingered Robot Hands'
+    year: '2026'
   kVyW-LEAAAAJ:MXK_kJrjxJIC:
     citations: 26
     title: 'Biotactip: A soft biomimetic optical tactile sensor for efficient 3d contact localization and 3d force estimation'
@@ -66,7 +70,7 @@ papers:
     title: Estimation of tool-tissue forces in robot-assisted minimally invasive surgery using neural networks
     year: '2019'
   kVyW-LEAAAAJ:ULOm3_A8WrAC:
-    citations: 2
+    citations: 3
     title: Efficient tactile sensing-based learning from limited real-world demonstrations for dual-arm fine pinch-grasp skills
     year: '2024'
   kVyW-LEAAAAJ:UeHWp8X0CEIC:
@@ -101,6 +105,10 @@ papers:
     citations: 3
     title: Control of a da Vinci EndoWrist surgical instrument using a novel master controller
     year: '2019'
+  kVyW-LEAAAAJ:ZeXyd9-uunAC:
+    citations: 0
+    title: 'SoftHand Model-W: A 3D-Printed, Anthropomorphic, Underactuated Robot Hand with Integrated Wrist and Carpal Tunnel'
+    year: '2026'
   kVyW-LEAAAAJ:Zph67rFs4hoC:
     citations: 0
     title: 'BioTacTip: A Soft Biomimetic Optical Tactile Sensor for Efficient'
@@ -122,7 +130,7 @@ papers:
     title: 'NeuralTouch: Neural Descriptors for Precise Sim-to-Real Tactile Robot Control'
     year: '2025'
   kVyW-LEAAAAJ:hqOjcs7Dif8C:
-    citations: 18
+    citations: 19
     title: Tactile-driven gentle grasping for human-robot collaborative tasks
     year: '2023'
   kVyW-LEAAAAJ:kNdYIx-mwKoC:
@@ -134,15 +142,15 @@ papers:
     title: 'Text2Touch: Tactile In-Hand Manipulation with LLM-Designed Reward Functions'
     year: '2025'
   kVyW-LEAAAAJ:qjMakFHDy7sC:
-    citations: 18
+    citations: 19
     title: Stable pinching by controlling finger relative orientation of robotic fingers with rolling soft tips
     year: '2018'
   kVyW-LEAAAAJ:qxL8FJ1GzNcC:
-    citations: 10
+    citations: 11
     title: 'Classification of vision-based tactile sensors: A review'
     year: '2025'
   kVyW-LEAAAAJ:roLk4NBRz8UC:
-    citations: 52
+    citations: 55
     title: 'BRL/Pisa/IIT SoftHand: a low-cost, 3D-printed, underactuated, tendon-driven hand with soft and adaptive synergies'
     year: '2022'
   kVyW-LEAAAAJ:u-x6o8ySG0sC:
