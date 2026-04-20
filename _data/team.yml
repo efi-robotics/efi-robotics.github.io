@@ -36,7 +36,7 @@ current:
 
   - name: Zihong Li
     role: PhD Researcher
-    image: "https://robohash.org/zihong?set=set3"
+    image: /assets/img/Zihong.jpeg
     supervisor: 
     project: ""
     link: ""
@@ -93,7 +93,7 @@ co_supervision:
 
 msc_students:
   - name: Vandam Dinh
-    role: MEng Engineering Mathematics
+    role: MEng Engineering Mathematics with a year in Industry
     project: "Simulation-Based Sensor-Invariant Grasp Stability Prediction Model"
     link: ""
 
