@@ -48,7 +48,7 @@ nav_order: 5
 
 --- -->
 
-### msc/meng students
+### current msc/meng students
 
 <ul class="alumni-list">
   {% assign msc_students = site.data.team.msc_students %}
@@ -80,14 +80,74 @@ nav_order: 5
 
 ### alumni
 
+{% assign alumni_members = site.data.team.alumni %}
+
+<!-- PhD Alumni -->
+{% assign phd_alumni = alumni_members | where: "role", "PhD" | sort: "year" | reverse %}
+{% if phd_alumni.size > 0 %}
+<h4 class="alumni-category">PhD</h4>
 <ul class="alumni-list">
-  {% assign alumni_members = site.data.team.alumni %}
-  {% for member in alumni_members %}
+  {% for member in phd_alumni %}
   <li>
-    {% if member.link and member.link != "" %}<a href="{{ member.link }}" target="_blank"><strong>{{ member.name }}</strong></a>{% else %}<strong>{{ member.name }}</strong>{% endif %} - {{ member.role }}{% if member.project and member.project != "" %}, <em>{{ member.project }}</em>{% endif %}{% if member.year and member.year != "" %} ({{ member.year }}){% endif %}
+    <strong>{{ member.name }}</strong>{% if member.project and member.project != "" %}{% if member.link and member.link != "" %}, <em><a href="{{ member.link }}" target="_blank">{{ member.project }}</a></em>{% else %}, <em>{{ member.project }}</em>{% endif %}{% endif %} ({{ member.year }})
   </li>
   {% endfor %}
 </ul>
+{% endif %}
+
+<!-- MEng in Engineering Mathematics -->
+{% assign meng_alumni = alumni_members | where: "role", "MEng in Engineering Mathematics" | sort: "year" | reverse %}
+{% if meng_alumni.size > 0 %}
+<h4 class="alumni-category">MEng in Engineering Mathematics</h4>
+<ul class="alumni-list">
+  {% for member in meng_alumni %}
+  <li>
+    {% if member.link and member.link != "" %}<a href="{{ member.link }}" target="_blank"><strong>{{ member.name }}</strong></a>{% else %}<strong>{{ member.name }}</strong>{% endif %}{% if member.project and member.project != "" %}, <em>{{ member.project }}</em>{% endif %} ({{ member.year }})
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+<!-- Research Internships -->
+{% assign internship_alumni = alumni_members | where_exp: "member", "member.role contains 'Internship'" | sort: "year" | reverse %}
+{% if internship_alumni.size > 0 %}
+<h4 class="alumni-category">Research Internships</h4>
+<ul class="alumni-list">
+  {% for member in internship_alumni %}
+  <li>
+    {% if member.link and member.link != "" %}<a href="{{ member.link }}" target="_blank"><strong>{{ member.name }}</strong></a>{% else %}<strong>{{ member.name }}</strong>{% endif %}{% if member.project and member.project != "" %}, <em>{{ member.project }}</em>{% endif %} ({{ member.year }})
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+<!-- MSc in Robotics -->
+{% assign msc_robotics = alumni_members | where: "role", "MSc in Robotics" | sort: "year" | reverse %}
+{% if msc_robotics.size > 0 %}
+<h4 class="alumni-category">MSc in Robotics</h4>
+<ul class="alumni-list">
+  {% for member in msc_robotics %}
+  <li>
+    {% if member.link and member.link != "" %}<a href="{{ member.link }}" target="_blank"><strong>{{ member.name }}</strong></a>{% else %}<strong>{{ member.name }}</strong>{% endif %}{% if member.project and member.project != "" %}, <em>{{ member.project }}</em>{% endif %} ({{ member.year }})
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+<!-- MSc in Data Science -->
+{% assign msc_data_science = alumni_members | where: "role", "MSc in Data Science" | sort: "year" | reverse %}
+{% if msc_data_science.size > 0 %}
+<h4 class="alumni-category">MSc in Data Science</h4>
+<ul class="alumni-list">
+  {% for member in msc_data_science %}
+  <li>
+    {% if member.link and member.link != "" %}<a href="{{ member.link }}" target="_blank"><strong>{{ member.name }}</strong></a>{% else %}<strong>{{ member.name }}</strong>{% endif %}{% if member.project and member.project != "" %}, <em>{{ member.project }}</em>{% endif %} ({{ member.year }})
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+
 
 <style>
 .team-grid {
@@ -104,7 +164,7 @@ nav_order: 5
   padding: 15px;
   border-radius: 10px;
   background-color: #f9f9f9;
-  height: 300px; /* Fixed height for uniformity */
+  height: 200px; /* Fixed height for uniformity */
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -131,6 +191,20 @@ nav_order: 5
 
 .alumni-list li {
   margin-bottom: 10px;
+}
+
+.alumni-category {
+  margin-top: 25px;
+  margin-bottom: 12px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #e8e8e8;
+  font-size: 0.95em;
+  font-weight: 500;
+  color: #666;
+}
+
+.alumni-category:first-of-type {
+  margin-top: 30px;
 }
 
 /* Responsive Design */
