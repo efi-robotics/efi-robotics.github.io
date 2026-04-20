@@ -10,35 +10,42 @@ current:
     role: Postdoctoral Researcher
     image: /assets/img/silvia.jpg
     supervisor: 
-    project: "soft robotics, FEM modelling"
+    project: ""
     link: ""
 
   - name: Ertug Ovur
     role: Postdoctoral Researcher
     image: /assets/img/ertug.jpg
     supervisor: 
-    project: "bimanual manipulation with tactile feedback"
+    project: ""
     link: ""
 
   - name: Laura Butcher
-    role: PhD Student
+    role: PhD Researcher
     image: /assets/img/laura.jpg
     supervisor: 
-    project: "tactile sensing for robotic manipulation"
+    project: ""
     link: ""
 
   - name: Youssef Alboraei
-    role: PhD Student
+    role: PhD Researcher
     image: /assets/img/youssef.jpg
     supervisor: 
-    project: "control of soft actuators for robot manipulation"
+    project: ""
+    link: ""
+
+  - name: Zihong Li
+    role: PhD Researcher
+    image: "https://robohash.org/zihong?set=set3"
+    supervisor: 
+    project: ""
     link: ""
 
   - name: Kaichen Shi
     role: Research Assistant
     image: "https://robohash.org/kaichen?set=set3"
     supervisor: 
-    project: "machine learning for tactile perception"
+    project: ""
     link: ""
 
 co_supervision:
@@ -86,31 +93,44 @@ co_supervision:
 
 msc_students:
   - name: Vandam Dinh
-    role: MEng Student
-    project: "Machine learning for robotic control"
+    role: MEng Engineering Mathematics
+    project: "Simulation-Based Sensor-Invariant Grasp Stability Prediction Model"
     link: ""
 
   - name: Mehdi Amara
-    role: MEng Student
+    role: MEng Engineering Mathematics
     project: "Teleoperation with haptic feedback"
     link: ""
 
 
 alumni:
   - name: Kaichen Shi
-    role: Msc Student
+    role: MSc in Robotics
     project: "Calibrating tactile sensing: Learning and fine-tuning for optical fibre-based Tactip sensors"
     year: 2025
     link: ""
 
   - name: Weifangming Wang
-    role: Msc Student
+    role: MSc in Robotics
     project: "Mapping Human Hand Motion to Robotic Hands for Teleoperation"
     year: 2024
     link: ""
 
+  - name: Yijiong Lin
+    role: PhD
+    project: "Sim-to-Real Deep Tactile Policies for Dexterous Robotic Manipulation"
+    year: 2025
+    link: "https://research-information.bris.ac.uk/en/studentTheses/sim-to-real-deep-tactile-policies-for-dexterous-robotic-manipulat/"
+
   - name: Haoran Li
-    role: PhD Student
-    project: "Bilateral teleoperation with haptic feedback"
-    year: 2023
-    link: ""
+    role: PhD
+    project: "Design and Development of Tactile Robot Hands for Enhanced Dexterous Manipulation"
+    year: 2025
+    link: "https://research-information.bris.ac.uk/en/studentTheses/design-and-development-of-tactile-robot-hands-for-enhanced-dexter/"
+
+  - name: Chris J Ford
+    role: PhD
+    project: "The Tactile SoftHand: An Underactuated, Anthropomorphic Hand with a Biomimetic Sense of Touch"
+    year: 2024
+    link: "https://research-information.bris.ac.uk/en/studentTheses/the-tactile-softhand-an-underactuated-anthropomorphic-hand-with-a/"
+    
