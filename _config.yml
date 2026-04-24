@@ -167,9 +167,6 @@ collections:
     output: true
   teachings:
     output: true
-  team:
-    output: true
-    permalink: /team/:name/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
