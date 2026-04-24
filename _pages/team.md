@@ -50,14 +50,48 @@ nav_order: 5
 
 ### current msc/meng students
 
+{% assign msc_students = site.data.team.msc_students %}
+
+<!-- MEng in Engineering Mathematics -->
+{% assign meng_students = msc_students | where: "role", "MEng in Engineering Mathematics" | concat: msc_students | where_exp: "member", "member.role contains 'MEng Engineering Mathematics'" %}
+{% if meng_students.size > 0 %}
+<h4 class="alumni-category">MEng in Engineering Mathematics</h4>
 <ul class="alumni-list">
-  {% assign msc_students = site.data.team.msc_students %}
-  {% for member in msc_students %}
+  {% for member in meng_students %}
   <li>
-    <strong>{{ member.name }}</strong> - {{ member.role }}{% if member.project and member.project != "" %}, <em>{{ member.project }}</em>{% endif %}
+    <strong>{{ member.name }}</strong>{% if member.project and member.project != "" %}, <em>{{ member.project }}</em>{% endif %}
   </li>
   {% endfor %}
 </ul>
+{% endif %}
+
+<!-- MSc in Robotics -->
+{% assign msc_robotics_current = msc_students | where: "role", "MSc in Robotics" %}
+{% if msc_robotics_current.size > 0 %}
+<h4 class="alumni-category">MSc in Robotics</h4>
+<ul class="alumni-list">
+  {% for member in msc_robotics_current %}
+  <li>
+    <strong>{{ member.name }}</strong>{% if member.project and member.project != "" %}, <em>{{ member.project }}</em>{% endif %}
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+<!-- MSc in Data Science -->
+{% assign msc_data_science_current = msc_students | where: "role", "MSc in Data Science" %}
+{% if msc_data_science_current.size > 0 %}
+<h4 class="alumni-category">MSc in Data Science</h4>
+<ul class="alumni-list">
+  {% for member in msc_data_science_current %}
+  <li>
+    <strong>{{ member.name }}</strong>{% if member.project and member.project != "" %}, <em>{{ member.project }}</em>{% endif %}
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+
 
 <!-- <div class="team-grid">
   {% assign msc_students = site.data.team.msc_students %}
