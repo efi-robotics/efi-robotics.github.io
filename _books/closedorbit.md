@@ -14,5 +14,4 @@ finished: 2018-07-12
 released: 2016
 stars: 5
 status: Finished
-date: 2018-07-12 11:11:00+0100
 ---

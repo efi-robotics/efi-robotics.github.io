@@ -31,8 +31,17 @@ Lab based in the School of Engineering Mathematics and Technology and led by Dr 
 ### research areas
 
 We aim to create dexterous and safe robotic physical interactions with the environment or humans in unstructured scenarios by combining control methods and machine learning techniques.
-* Stable object grasping and in-hand manipulation.
-* Human-inspired human-robot object handover strategies.
-* Control of flexible joint robots with variable elasticity.
-* Non model-based control of robotic systems with prescribed performance guarantees.
-* Bilateral teleoperation with haptic feedback.
+* Manipulation & Interaction
+  * Stability / passivity‑based object grasping and in‑hand manipulation
+* Feedback control with rich sensing/actuation
+  * Feedback control using tactile sensing
+  * Feedback control using soft actuators
+  * Control of compliant robots
+* Teleoperation
+  * Bilateral teleoperation of robot arms and robot hands
+* Sensing & embodiment
+  * Tactile sensors
+  * Robot hand design
+* Modelling & simulation
+  * Physics‑based simulation of controllers
+  * FEM‑based deformation modelling for manipulation / tactile sensors

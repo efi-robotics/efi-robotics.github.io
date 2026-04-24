@@ -14,5 +14,4 @@ finished: 2017-02-04
 released: 2015
 stars: 5
 status: Finished
-date: 2017-02-04 11:11:00+0100
 ---

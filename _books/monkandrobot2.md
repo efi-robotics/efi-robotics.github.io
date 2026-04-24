@@ -13,5 +13,4 @@ finished: 2022-07-18
 released: 2022
 stars: 5
 status: Finished
-date: 2022-07-18 11:11:00+0100
 ---

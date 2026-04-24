@@ -13,5 +13,4 @@ finished: 2021-08-09
 released: 2021
 stars: 5
 status: Finished
-date: 2021-08-09 11:11:00+0100
 ---
