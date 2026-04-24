@@ -1,0 +1,321 @@
+current:
+  - name: Efi Psomopoulou
+    role: Lab Lead
+    image: /assets/img/efi.jpg
+    supervisor: ""
+    project: ""
+    link: "https://www.bristol.ac.uk/people/person/Efi-Psomopoulou-88afab93-e2fc-4a7a-be90-ccfcd945e1ad/"
+
+  - name: Silvia Terrile
+    role: Postdoctoral Researcher
+    image: /assets/img/silvia.jpg
+    supervisor: 
+    project: ""
+    link: ""
+
+  - name: Ertug Ovur
+    role: Postdoctoral Researcher
+    image: /assets/img/ertug.jpg
+    supervisor: 
+    project: ""
+    link: ""
+
+  - name: Laura Butcher
+    role: PhD Researcher
+    image: /assets/img/laura.jpg
+    supervisor: 
+    project: ""
+    link: ""
+
+  - name: Youssef Alboraei
+    role: PhD Researcher
+    image: /assets/img/youssef.jpg
+    supervisor: 
+    project: ""
+    link: ""
+
+  - name: Zihong Li
+    role: PhD Researcher
+    image: /assets/img/Zihong.jpeg
+    supervisor: 
+    project: ""
+    link: ""
+
+  - name: Kaichen Shi
+    role: Research Assistant
+    image: "https://robohash.org/kaichen?set=set3"
+    supervisor: 
+    project: ""
+    link: ""
+
+co_supervision:
+  - name: Christopher Ford
+    role: Research Associate
+    image: /assets/img/chris.jpg
+    supervisor: Nathan Lepora
+    project: "Tactile control"
+    link: ""
+
+  - name: Harry Field
+    role: PhD Student
+    image: /assets/img/harry.jpg
+    supervisor: Nathan Lepora
+    project: "LLM-based tactile perception for robotic manipulation"
+    link: ""
+
+  - name: Xiaoqing Guo
+    role: PhD Student
+    image: /assets/img/xiaoqing.jpg
+    supervisor: Nathan Lepora
+    project: "Tactile sensing and haptic feedback"
+    link: ""
+
+  - name: Boang Guan
+    role: PhD Student
+    image: /assets/img/boang.jpg
+    supervisor: Nathan Lepora
+    project: "tactile sensing, VR robot control"
+    link: ""
+
+  - name: Yanhui Lu
+    role: PhD Student
+    image: /assets/img/yanhui.jpg
+    supervisor: Ben Ward-Cherrier
+    project: "neuromorphic tactile sensing"
+    link: ""
+  
+  - name: Piran Fletcher
+    role: PhD Student
+    image: /assets/img/piran.jpg
+    supervisor: Nathan Lepora
+    project: "distributed robot control"
+    link: ""
+
+msc_students:
+  - name: Vandam Dinh
+    role: MEng Engineering Mathematics with a year in Industry
+    project: "Simulation-Based Sensor-Invariant Grasp Stability Prediction Model"
+    link: ""
+
+  - name: Mehdi Amara
+    role: MEng Engineering Mathematics
+    project: "OptiTouch: Colour-Coded Fibre-Optic Tactile Sensing for Shear and Slip"
+    link: ""
+
+
+alumni:
+  - name: Yijiong Lin
+    role: PhD
+    project: "Sim-to-Real Deep Tactile Policies for Dexterous Robotic Manipulation"
+    year: 2025
+    link: "https://research-information.bris.ac.uk/en/studentTheses/sim-to-real-deep-tactile-policies-for-dexterous-robotic-manipulat/"
+
+  - name: Haoran Li
+    role: PhD
+    project: "Design and Development of Tactile Robot Hands for Enhanced Dexterous Manipulation"
+    year: 2025
+    link: "https://research-information.bris.ac.uk/en/studentTheses/design-and-development-of-tactile-robot-hands-for-enhanced-dexter/"
+
+  - name: Chris J Ford
+    role: PhD
+    project: "The Tactile SoftHand: An Underactuated, Anthropomorphic Hand with a Biomimetic Sense of Touch"
+    year: 2024
+    link: "https://research-information.bris.ac.uk/en/studentTheses/the-tactile-softhand-an-underactuated-anthropomorphic-hand-with-a/"
+    
+  - name: Kaichen Shi
+    role: MSc in Robotics
+    project: "Calibrating tactile sensing: Learning and fine-tuning for optical fibre-based Tactip sensors"
+    year: 2025
+    link: ""
+
+  - name: Charles Pullan
+    role: MEng in Engineering Mathematics
+    project: "Slip Detection and Variable Grip Strength Controller for Stable 3D Pinching Using Tactile Sensors"
+    year: 2024
+    link: ""
+
+  - name: Weifangming Wang
+    role: MSc in Robotics
+    project: "Mapping Human Hand Motion to Robotic Hands for Teleoperation"
+    year: 2024
+    link: ""
+
+  - name: Lingjie Zeng
+    role: MSc in Data Science
+    project: "Advanced Tactile Perception with Optimized GRU Models: A Comparative Study with LSTM in Robotic Applications"
+    year: 2024
+    link: ""
+
+  - name: Zhe Zhou
+    role: MSc in Data Science
+    project: "Predictive Modeling of Future States of Optical Sensors Using Time Series Models"
+    year: 2024
+    link: ""
+
+  - name: Zhengpeng Wu
+    role: MSc in Data Science
+    project: "Investigating the effect of extrinsic tactile resolution on deep learning model performance"
+    year: 2024
+    link: ""
+  
+  - name: Yishuo Tang
+    role: MSc in Data Science
+    project: "Vision Representation for Dexterous Manipulation"
+    year: 2024
+    link: ""
+
+  - name: Shuoqi Zhang
+    role: MSc in Data Science
+    project: "Tactile Transfer Transformer Boost Model For Domain Adaptation and Domain Generalization"
+    year: 2024
+    link: ""
+
+  - name: Wenxin Xie
+    role: MSc in Data Science
+    project: "Reducing Training Data Demand For Pose Models of 3D Surfaces Using UpperCaSE and Fine-tuning"
+    year: 2024
+    link: ""
+
+  - name: Jiadong Xu
+    role: MSc in Data Science
+    project: "Enhancing Haptic Perception: Time-Series Deep Learning Models for Force Estimation"
+    year: 2024
+    link: ""
+
+  - name: Christopher White
+    role: MEng in Engineering Mathematics
+    project: "Using Tactile Sensing to Inform Low-Cost, Force-Feedback Haptics"
+    year: 2023
+    link: ""
+
+  - name: Chris Sharp
+    role: MEng in Engineering Mathematics
+    project: "Get A Grip: The Kinematics and Dynamics of a Simulated Three finger Grasping Robot"
+    year: 2023
+    link: ""
+
+  - name: Thomas Courts
+    role: MSc in Data Science
+    project: "Application of Meta Quest 2 Hand Tracking Data for Virtual Robotic Hand Simulation: A Study in Advanced VR-Controlled Robotics"
+    year: 2023
+    link: ""
+
+  - name: Pui Chuen Cheng
+    role: MSc in Data Science
+    project: "Robot In-Hand Object Rotation with Horizontally Vibrated Object"
+    year: 2023
+    link: ""   
+
+  - name: Kai Tao
+    role: MSc in Data Science
+    project: "Implementation of pose invariance in tactile 3D reconstruction using VNN and DeepSDF"
+    year: 2023
+    link: ""  
+
+  - name: Chuhan Geng
+    role: MSc in Data Science
+    project: "3D Reconstruction based on Deep Learning combined with Point Cloud Filtering"
+    year: 2023
+    link: ""  
+  
+  - name: Terra Rao
+    role: MSc in Data Science
+    project: "Enhancing Robotic In-hand Manipulation through High-Resolution Tactile Sensing"
+    year: 2023
+    link: ""  
+
+  - name: Jiujiang Chen
+    role: MSc in Data Science
+    project: "Comparative Analysis of Population-Based Training’s Performance Enhancement in Dexterous Hand Control using Isaac Gym"
+    year: 2023
+    link: "" 
+
+  - name: Guo Yixin
+    role: MSc in Data Science
+    project: "Creating motion datasets by Meta Quest2"
+    year: 2023
+    link: "" 
+
+  - name: Yifan Wang
+    role: MSc in Data Science
+    project: "SDFNeRF: The combination of 3D data and NeRF algorithms"
+    year: 2023
+    link: "" 
+
+  - name: Kan Yu
+    role: MSc in Data Science
+    project: "VisualSDF: Accelerating DeepSDF Reconstruction with Visual Information"
+    year: 2023
+    link: "" 
+
+  - name: Yiyao Wang
+    role: Faculty Summer Research Internship
+    project: "A Dataset for robot learning from Demonstration"
+    year: 2023
+    link: "" 
+
+  - name: Yujie Xia
+    role: MSc in Robotics
+    project: "Tactile-based Learning for Human-Robot Interaction"
+    year: 2022
+    link: "" 
+
+  - name: Purva Pravin Likhar
+    role: MSc in Data Science
+    project: "Myth vs. Reality: How reliable is Social Media for the Propagation of Nutritional Information?"
+    year: 2022
+    link: "" 
+
+  - name: Kexin Wu
+    role: MSc in Data Science
+    project: "Analysis of Human Daily Manipulation Dataset"
+    year: 2022
+    link: "" 
+
+  - name: Richard Rao-Nicholson
+    role: MSc in Data Science
+    project: "Social Media Image Recognition for Nutrition Sciences"
+    year: 2022
+    link: "" 
+
+  - name: Li Yin
+    role: MSc in Data Science
+    project: "Analysis of hidden mutation positions of the SARS-CoV-2 based on machine learning"
+    year: 2022
+    link: "" 
+
+  - name: Max Kirwan
+    role: MSc in Data Science
+    project: "Monitoring Nutritional Information Shared on Instagram Focusing on Recipe-based Data"
+    year: 2022
+    link: "" 
+
+  - name: Kuan-Cheng Huang
+    role: MSc in Data Science
+    project: "Detecting Hidden Mutation by supervised feature selection in COVID Data"
+    year: 2022
+    link: "" 
+
+  - name: Qi Chen
+    role: MSc in Data Science
+    project: "Deep Learning Models for Taxonomic Classification of Metagenomic Data"
+    year: 2022
+    link: "" 
+
+  - name: Christopher White
+    role: Faculty Summer Research Internship
+    project: "Towards Learning Robot ​In-Hand Manipulation Skills"
+    year: 2022
+    link: "" 
+
+  - name: Haoqian Yang
+    role: MSc in Robotics
+    project: "Customisable simulator for robotic in-hand object manipulation"
+    year: 2021
+    link: "" 
+
+  - name: Xintian Zhang
+    role: MSc in Robotics
+    project: "A controller for interchanging fingers while grasping an object with a three-fingered robotic hand"
+    year: 2020
+    link: "" 
