@@ -25,8 +25,6 @@ nav_order: 5
   {% endfor %}
 </div>
 
----
-
 <!-- ### co-supervision
 
 <div class="team-grid">
@@ -47,8 +45,6 @@ nav_order: 5
 </div>
 
 --- -->
-
-### current msc/meng students
 
 {% assign msc_students = site.data.team.msc_students %}
 
