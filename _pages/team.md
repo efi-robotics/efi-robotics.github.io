@@ -3,7 +3,7 @@ layout: page
 title: team
 permalink: /team/
 description: members of the lab
-nav: false
+nav: true
 nav_order: 5
 ---
 
