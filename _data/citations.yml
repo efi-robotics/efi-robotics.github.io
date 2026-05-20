@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-04-29'
+  last_updated: '2026-05-20'
 papers:
   kVyW-LEAAAAJ:0EnyYjriUFMC:
-    citations: 16
+    citations: 19
     title: An overview of robotic grippers
     year: '2023'
   kVyW-LEAAAAJ:2osOgNQ5qMEC:
@@ -10,7 +10,7 @@ papers:
     title: A human inspired stable object load transfer for robots in hand-over tasks
     year: '2015'
   kVyW-LEAAAAJ:3fE2CSJIrl8C:
-    citations: 47
+    citations: 50
     title: 'Anyrotate: Gravity-invariant in-hand object rotation with sim-to-real touch'
     year: '2024'
   kVyW-LEAAAAJ:4DMP91E08xMC:
@@ -18,7 +18,7 @@ papers:
     title: Accurate image specular highlight removal based on light field imaging. In 2015 Visual Communications and Image Processing (VCIP)
     year: '2015'
   kVyW-LEAAAAJ:4TOpqqG69KYC:
-    citations: 15
+    citations: 16
     title: Shear-based grasp control for multi-fingered underactuated tactile robotic hands
     year: '2025'
   kVyW-LEAAAAJ:5nxA0vEk-isC:
@@ -46,7 +46,7 @@ papers:
     title: Using current measurement to estimate palpation and grasping forces in robot-assisted minimally invasive surgery
     year: '2018'
   kVyW-LEAAAAJ:KlAtU1dfN6UC:
-    citations: 14
+    citations: 15
     title: 'Tactile SoftHand-A: 3D-printed, tactile, highly underactuated, anthropomorphic robot hand with an antagonistic tendon mechanism'
     year: '2024'
   kVyW-LEAAAAJ:L8Ckcad2t8MC:
@@ -54,7 +54,7 @@ papers:
     title: 'How to Train your Tactile Model: Tactile Perception with Multi-fingered Robot Hands'
     year: '2026'
   kVyW-LEAAAAJ:MXK_kJrjxJIC:
-    citations: 26
+    citations: 29
     title: 'Biotactip: A soft biomimetic optical tactile sensor for efficient 3d contact localization and 3d force estimation'
     year: '2024'
   kVyW-LEAAAAJ:QIV2ME_5wuYC:
@@ -74,7 +74,7 @@ papers:
     title: Efficient tactile sensing-based learning from limited real-world demonstrations for dual-arm fine pinch-grasp skills
     year: '2024'
   kVyW-LEAAAAJ:UeHWp8X0CEIC:
-    citations: 19
+    citations: 20
     title: A human inspired handover policy using gaussian mixture models and haptic cues
     year: '2019'
   kVyW-LEAAAAJ:UebtZRa9Y70C:
@@ -114,7 +114,7 @@ papers:
     title: 'BioTacTip: A Soft Biomimetic Optical Tactile Sensor for Efficient'
     year: Unknown Year
   kVyW-LEAAAAJ:_FxGoFyzp5QC:
-    citations: 21
+    citations: 22
     title: A robust controller for stable 3d pinching using tactile sensing
     year: '2021'
   kVyW-LEAAAAJ:_kc_bZDykSQC:
@@ -146,11 +146,11 @@ papers:
     title: Stable pinching by controlling finger relative orientation of robotic fingers with rolling soft tips
     year: '2018'
   kVyW-LEAAAAJ:qxL8FJ1GzNcC:
-    citations: 11
+    citations: 14
     title: 'Classification of vision-based tactile sensors: A review'
     year: '2025'
   kVyW-LEAAAAJ:roLk4NBRz8UC:
-    citations: 55
+    citations: 56
     title: 'BRL/Pisa/IIT SoftHand: a low-cost, 3D-printed, underactuated, tendon-driven hand with soft and adaptive synergies'
     year: '2022'
   kVyW-LEAAAAJ:u-x6o8ySG0sC:
