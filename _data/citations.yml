@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-20'
+  last_updated: '2026-05-29'
 papers:
   kVyW-LEAAAAJ:0EnyYjriUFMC:
     citations: 19
@@ -10,7 +10,7 @@ papers:
     title: A human inspired stable object load transfer for robots in hand-over tasks
     year: '2015'
   kVyW-LEAAAAJ:3fE2CSJIrl8C:
-    citations: 50
+    citations: 54
     title: 'Anyrotate: Gravity-invariant in-hand object rotation with sim-to-real touch'
     year: '2024'
   kVyW-LEAAAAJ:4DMP91E08xMC:
@@ -18,7 +18,7 @@ papers:
     title: Accurate image specular highlight removal based on light field imaging. In 2015 Visual Communications and Image Processing (VCIP)
     year: '2015'
   kVyW-LEAAAAJ:4TOpqqG69KYC:
-    citations: 16
+    citations: 17
     title: Shear-based grasp control for multi-fingered underactuated tactile robotic hands
     year: '2025'
   kVyW-LEAAAAJ:5nxA0vEk-isC:
@@ -46,7 +46,7 @@ papers:
     title: Using current measurement to estimate palpation and grasping forces in robot-assisted minimally invasive surgery
     year: '2018'
   kVyW-LEAAAAJ:KlAtU1dfN6UC:
-    citations: 15
+    citations: 16
     title: 'Tactile SoftHand-A: 3D-printed, tactile, highly underactuated, anthropomorphic robot hand with an antagonistic tendon mechanism'
     year: '2024'
   kVyW-LEAAAAJ:L8Ckcad2t8MC:
@@ -128,7 +128,7 @@ papers:
   kVyW-LEAAAAJ:dhFuZR0502QC:
     citations: 1
     title: 'NeuralTouch: Neural Descriptors for Precise Sim-to-Real Tactile Robot Control'
-    year: '2025'
+    year: '2026'
   kVyW-LEAAAAJ:hqOjcs7Dif8C:
     citations: 21
     title: Tactile-driven gentle grasping for human-robot collaborative tasks
@@ -138,7 +138,7 @@ papers:
     title: 'AnyRotate: Gravity-Invariant In-Hand Rotation with Sim-to-Real Touch'
     year: Unknown Year
   kVyW-LEAAAAJ:mVmsd5A6BfQC:
-    citations: 1
+    citations: 2
     title: 'Text2Touch: Tactile In-Hand Manipulation with LLM-Designed Reward Functions'
     year: '2025'
   kVyW-LEAAAAJ:qjMakFHDy7sC:
@@ -146,7 +146,7 @@ papers:
     title: Stable pinching by controlling finger relative orientation of robotic fingers with rolling soft tips
     year: '2018'
   kVyW-LEAAAAJ:qxL8FJ1GzNcC:
-    citations: 14
+    citations: 16
     title: 'Classification of vision-based tactile sensors: A review'
     year: '2025'
   kVyW-LEAAAAJ:roLk4NBRz8UC:
