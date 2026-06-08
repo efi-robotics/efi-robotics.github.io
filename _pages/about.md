@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: somatic motor adaptation through intelligent control in robotics
+subtitle: embodied intelligence for contact-rich robot manipulation
 
 profile:
   align: right
@@ -27,21 +27,32 @@ latest_posts:
 
 Lab based in the School of Engineering Mathematics and Technology and led by Dr Efi Psomopoulou, Senior Lecturer at the [University of Bristol](https://research-information.bris.ac.uk/en/persons/efi-psomopoulou) and [Bristol Robotics Laboratory](https://www.bristolroboticslab.com/). Affiliated with the [BRL Dexterous Robotics Theme](https://www.bristolroboticslab.com/dexterous-robotics).
 
-
 ### research areas
 
-We aim to create dexterous and safe robotic physical interactions with the environment or humans in unstructured scenarios by combining control methods and machine learning techniques.
-* Manipulation & Interaction
-  * Stability / passivity‑based object grasping and in‑hand manipulation
-* Feedback control with rich sensing/actuation
-  * Feedback control using tactile sensing
-  * Feedback control using soft actuators
-  * Control of compliant robots
-* Teleoperation
-  * Bilateral teleoperation of robot arms and robot hands
-* Sensing & embodiment
-  * Tactile sensors
-  * Robot hand design
-* Modelling & simulation
-  * Physics‑based simulation of controllers
-  * FEM‑based deformation modelling for manipulation / tactile sensors
+At the Somatic Robotics Lab, we study how contact, morphology, and tactile sensing can be used to build robots that manipulate the world with greater dexterity, robustness, and safety. We develop geometry-aware, mechanics-informed methods for robot learning and control, with a focus on contact-rich manipulation, robot hands, compliant systems, and physical human–robot interaction.
+
+1. How do contact and morphology shape dexterous behaviour?
+2. How can tactile and embodied sensing make manipulation more robust?
+3. How can mechanics-informed structure improve robot learning and control?
+4. How do we transfer these ideas to real robot hands, soft systems, and human interaction?
+
+**Contact-rich dexterous manipulation**
+
+We study how robots can achieve stable, adaptive, and purposeful interaction through contact. This includes grasping, pinching, in-hand manipulation, handovers, and manipulation under uncertainty.
+
+**Tactile and embodied perception**
+
+We develop methods that use touch, contact geometry, and local force information to infer physically meaningful interaction states. We are interested in tactile sensing not only as perception, but as part of the robot’s embodied intelligence.
+
+**Morphology, compliance, and robot hands**
+
+We investigate how hand design, softness, underactuation, compliance, and actuation strategy shape what robots can sense, stabilise, and manipulate. We treat morphology as part of control and learning, not just hardware.
+
+**Geometry- and mechanics-informed learning and control**
+
+We develop control and robot-learning methods that exploit physical structure rather than ignoring it. This includes tactile feedback control, stable interaction policies, sim-to-real transfer, and learning methods informed by contact mechanics, geometry, and embodiment.
+
+**Simulation and structured models for interaction**
+
+We use physics-based simulation, deformation modelling, and structured representations to study interaction, design controllers and policies, and accelerate transfer across sensors, tasks, and embodiments.
+
