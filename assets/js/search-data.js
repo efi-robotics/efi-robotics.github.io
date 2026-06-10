@@ -300,16 +300,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-grasping",
-          title: 'Grasping',
-          description: "",
+            },},{id: "projects-dexterous-manipulation",
+          title: 'dexterous manipulation',
+          description: "contact-rich grasping, pinching, and in-hand interaction",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/grasping/";
-            },},{id: "projects-handover",
-          title: 'Handover',
-          description: "",
+              window.location.href = "/projects/dexterousmanipulation/";
+            },},{id: "projects-embodied-touch",
+          title: 'embodied touch',
+          description: "tactile sensing, contact geometry, and morphology-aware design",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/handover/";
+              window.location.href = "/projects/embodiedtouch/";
             },},{id: "projects-robot-learning",
           title: 'Robot Learning',
           description: "",
@@ -340,16 +340,16 @@ ninja.data = [{
           description: "Robotic Assistant for MCI Patients | H2020",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ramcip/";
+            },},{id: "projects-shared-interaction",
+          title: 'shared interaction',
+          description: "handovers, bilateral teleoperation, and human-guided manipulation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/sharedinteraction/";
             },},{id: "projects-smartsurg",
           title: 'SMARTsurg',
           description: "SMart weArable Robotic Teleoperated Surgery | H2020",
           section: "Projects",handler: () => {
               window.location.href = "/projects/smartsurg/";
-            },},{id: "projects-teleoperation",
-          title: 'Teleoperation',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/teleop/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
