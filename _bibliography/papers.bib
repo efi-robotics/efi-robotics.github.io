@@ -11,11 +11,11 @@ arxiv={2510.20390},
 pdf={https://arxiv.org/pdf/2510.20390},
 archivePrefix={arXiv},
 primaryClass={cs.RO},
+doi={10.1109/TMECH.2026.3687919},
 altmetric = {true},
 dimensions={true},
 html={https://arxiv.org/html/2510.20390v1},
 abstract={Grasping accuracy is a critical prerequisite for precise object manipulation, often requiring careful alignment between the robot hand and object. Neural Descriptor Fields (NDF) offer a promising vision-based method to generate grasping poses that generalize across object categories. However, NDF alone can produce inaccurate poses due to imperfect camera calibration, incomplete point clouds, and object variability. Meanwhile, tactile sensing enables more precise contact, but existing approaches typically learn policies limited to simple, predefined contact geometries. In this work, we introduce NeuralTouch, a multimodal framework that integrates NDF and tactile sensing to enable accurate, generalizable grasping through gentle physical interaction. Our approach leverages NDF to implicitly represent the target contact geometry, from which a deep reinforcement learning (RL) policy is trained to refine the grasp using tactile feedback. This policy is conditioned on the neural descriptors and does not require explicit specification of contact types. We validate NeuralTouch through ablation studies in simulation and zero-shot transfer to real-world manipulation tasks--such as peg-out-in-hole and bottle lid opening--without additional fine-tuning. Results show that NeuralTouch significantly improves grasping accuracy and robustness over baseline methods, offering a general framework for precise, contact-rich robotic manipulation.},
-note={accepted},
 }
 
 @INPROCEEDINGS{kaichen,
@@ -116,7 +116,7 @@ abstract = 	 {Large language models (LLMs) are beginning to automate reward desi
 }
 
 
-@ARTICLE{11134134,
+@ARTICLE{11134134sens,
   abbr = {SENSORS},
   author={Li, Haoran and Lin, Yijiong and Lu, Chenghua and Yang, Max and Psomopoulou, Efi and Lepora, Nathan F.},
   journal={IEEE Sensors Journal}, 
@@ -179,7 +179,7 @@ abbr = {IJRR},
   abstract={A challenging and important problem for tendon-driven multi-fingered robotic hands is to ensure grasping adaptivity while minimizing the number of actuators needed to provide human-like functionality. Inspired by the Pisa/IIT SoftHand, this paper introduces a 3D-printed, highly underactuated, tactile-sensorized, five-finger robotic hand named the Tactile SoftHand-A, which features an antagonistic mechanism to actively open and close the hand. Our proposed dual-tendon design gives options that allow active control of specific (distal or proximal interphalangeal) joints; for example, to adjust from an enclosing to fingertip grasp or to manipulate an object with a fingertip. We also develop and integrate a new design of fully 3D-printed vision-based tactile sensor within the fingers that requires minimal hand assembly. A control scheme based on analytically extracting contact location and slip from the tactile images is used to coordinate the antagonistic tendon mechanism (using a marker displacement density map, suitable for TacTip-based sensors). We perform extensive testing of a single finger, the entire hand, and the tactile capabilities to show the improvements in reactivity, load-bearing, and manipulability in comparison to a SoftHand that lacks the antagonistic mechanism. We also demonstrate the hand’s reactivity to contact disturbances including slip, and how this enables teleoperated control from human hand gestures. Overall, this study points the way towards a class of low-cost, accessible, 3D-printable, tactile, underactuated human-like robotic hands, and we openly release the designs to facilitate others to build upon this work.},
 }
 
-@ARTICLE{10972061,
+@ARTICLE{10972061tro,
   abbr = {T-RO},
   author={Ford, Christopher J. and Li, Haoran and Catalano, Manuel G. and Bianchi, Matteo and Psomopoulou, Efi and Lepora, Nathan F.},
   journal={IEEE Transactions on Robotics}, 
@@ -294,7 +294,7 @@ abbr = {RAM},
   abstract={The IEEE Robotics and Automation Society (RAS) Women in Engineering Committee organized a virtual event for the 2022 International Conference on Robotics and Automation (ICRA) and was honored to host Lydia Kavraki, Katherine J. Kuchenbecker, and Vandi Verma as keynote speakers and panelists. These distinguished women have made significant contributions to the field of robotics and have been recognized for their exceptional achievements in research and education: they have all been past keynote or plenary speakers at a major international robotics conference. The presenters were invited to provide their valuable insights as women in the robotics field, engage with the attendees in meaningful conversations, and share their experiences and expertise. The event was held online in Gather, prior to the 2022 ICRA conference, to offer a platform for those unable to participate in the in-person event and to act as an icebreaker for early-career researchers who might be attending ICRA for the first time ( Figure 1 ). The event also enabled attendees to connect and network with other professionals in the field, as well as to contribute to the discussion on the critical topic of diversity and inclusivity in robotics.}
 }
 
-@INPROCEEDINGS{10161036,
+@INPROCEEDINGS{10161036tactile,
 abbr = {ICRA},
 abstract={This paper presents a control scheme for force sensitive, gentle grasping with a Pisa/IIT anthropomorphic SoftHand equipped with a miniaturised version of the TacTip optical tactile sensor on all five fingertips. The tactile sensors provide high-resolution information about a grasp and how the fingers interact with held objects. We first describe a series of hardware developments for performing asynchronous sensor data acquisition and processing, resulting in a fast control loop sufficient for real-time grasp control. We then develop a novel grasp controller that uses tactile feedback from all five fingertip sensors simultaneously to gently and stably grasp 43 objects of varying geometry and stiffness, which is then applied to a human-to-robot handover task. These developments open the door to more advanced manipulation with underactuated hands via fast reflexive control using high-resolution tactile sensing.},
 author={Ford, Christopher J. and Li, Haoran and Lloyd, John and Catalano, Manuel G. and Bianchi, Matteo and Psomopoulou, Efi and Lepora, Nathan F.},

@@ -1,13 +1,20 @@
 ---
 layout: page
-title: projects
+title: research projects
 permalink: /projects/
 description: (non logo icons found on IconScout)
 nav: false
 nav_order: 3
-display_categories: [funded projects, research themes, past projects]
+display_categories: [research themes, funded projects, past projects]
 horizontal: true
 ---
+
+Our projects study how contact, morphology, and tactile / haptic feedback shape dexterous robot behaviour. We develop physically grounded methods for grasping, in-hand manipulation, handover, and human-guided interaction, with growing links to robot learning for contact-rich manipulation.
+
+1. How do contact and morphology shape dexterous behaviour?
+2. How can tactile and embodied sensing make manipulation more robust?
+3. How can mechanics-informed structure improve robot learning and control?
+4. How do we transfer these ideas to real robot hands, soft systems, and human interaction?
 
 <!-- pages/projects.md -->
 <div class="projects">
