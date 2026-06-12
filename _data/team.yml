@@ -92,15 +92,25 @@ co_supervision:
     link: ""
 
 msc_students:
-  - name: Vandam Dinh
-    role: MEng Engineering Mathematics with a year in Industry
-    project: "Simulation-Based Sensor-Invariant Grasp Stability Prediction Model"
-    link: ""
-
-  - name: Mehdi Amara
-    role: MEng Engineering Mathematics
+  - name: Yiwei Wu 
+    role: MSc in Robotics
     project: "OptiTouch: Colour-Coded Fibre-Optic Tactile Sensing for Shear and Slip"
     link: ""
+
+  - name: Linyue Zhang
+    role: MSc in Aerial Robotics
+    project: "An underactuated linkage-driven tactile robotic finger"
+    link: ""
+
+  - name: Junqi Li
+    role: MSc in BioRobotics
+    project: "Tactile-only geometric shape classification"
+    link: ""  
+
+  - name: Yingjun Xiang
+    role: MSc in BioRobotics
+    project: "Learning manipulation skills from demonstrations"
+    link: ""  
 
 
 alumni:
@@ -121,7 +131,19 @@ alumni:
     project: "The Tactile SoftHand: An Underactuated, Anthropomorphic Hand with a Biomimetic Sense of Touch"
     year: 2024
     link: "https://research-information.bris.ac.uk/en/studentTheses/the-tactile-softhand-an-underactuated-anthropomorphic-hand-with-a/"
-    
+
+  - name: Vandam Dinh
+    role: MEng in Engineering Mathematics
+    project: "Simulation-Based Sensor-Invariant Grasp Stability Prediction Model"
+    year: 2026
+    link: ""
+
+  - name: Mehdi Amara
+    role: MEng in Engineering Mathematics
+    project: "Fibre-Optic Tactile Sensing for Shear"
+    year: 2026
+    link: ""
+
   - name: Kaichen Shi
     role: MSc in Robotics
     project: "Calibrating tactile sensing: Learning and fine-tuning for optical fibre-based Tactip sensors"

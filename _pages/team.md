@@ -74,6 +74,32 @@ nav_order: 5
 </ul>
 {% endif %}
 
+<!-- MSc in BioRobotics -->
+{% assign msc_robotics_current = msc_students | where: "role", "MSc in BioRobotics" %}
+{% if msc_robotics_current.size > 0 %}
+<h4 class="alumni-category">MSc in BioRobotics</h4>
+<ul class="alumni-list">
+  {% for member in msc_robotics_current %}
+  <li>
+    <strong>{{ member.name }}</strong>{% if member.project and member.project != "" %}, <em>{{ member.project }}</em>{% endif %}
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+<!-- MSc in Aerial Robotics -->
+{% assign msc_robotics_current = msc_students | where: "role", "MSc in Aerial Robotics" %}
+{% if msc_robotics_current.size > 0 %}
+<h4 class="alumni-category">MSc in Aerial Robotics</h4>
+<ul class="alumni-list">
+  {% for member in msc_robotics_current %}
+  <li>
+    <strong>{{ member.name }}</strong>{% if member.project and member.project != "" %}, <em>{{ member.project }}</em>{% endif %}
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}
+
 <!-- MSc in Data Science -->
 {% assign msc_data_science_current = msc_students | where: "role", "MSc in Data Science" %}
 {% if msc_data_science_current.size > 0 %}
