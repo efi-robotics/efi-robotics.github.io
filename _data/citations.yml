@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-07-13'
 papers:
   kVyW-LEAAAAJ:0EnyYjriUFMC:
     citations: 22
@@ -86,7 +86,7 @@ papers:
     title: "Deep-Learning-Based Compliant Motion Control of a Pneumatically-Driven Robotic Catheter................. D. Wu, XT Ha, Y. Zhang, M. Ourak, G. Borghesan, K. Niu, F. Trauzettel \u2026"
     year: Unknown Year
   kVyW-LEAAAAJ:W7OEmFMy1HYC:
-    citations: 7
+    citations: 6
     title: Evaluation of force feedback for palpation and application of active constraints on a teleoperated system
     year: '2019'
   kVyW-LEAAAAJ:WF5omc3nYNoC:
