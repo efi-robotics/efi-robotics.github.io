@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-29'
+  last_updated: '2026-08-10'
 papers:
   kVyW-LEAAAAJ:-f6ydRqryjwC:
     citations: 0
     title: 'Towards Artificial Nerves: Biomimetic Optical-Fiber Tactile Sensing for Robots'
     year: '2026'
   kVyW-LEAAAAJ:0EnyYjriUFMC:
-    citations: 22
+    citations: 23
     title: An overview of robotic grippers
     year: '2023'
   kVyW-LEAAAAJ:2osOgNQ5qMEC:
@@ -18,12 +18,12 @@ papers:
     title: 'Anyrotate: Gravity-invariant in-hand object rotation with sim-to-real touch'
     year: '2024'
   kVyW-LEAAAAJ:4DMP91E08xMC:
-    citations: 3
+    citations: 5
     title: Accurate image specular highlight removal based on light field imaging. In 2015 Visual Communications and Image Processing (VCIP)
     year: '2015'
   kVyW-LEAAAAJ:4TOpqqG69KYC:
     citations: 20
-    title: Shear-based grasp control for multi-fingered underactuated tactile robotic hands
+    title: Shear-based grasp control for multifingered underactuated tactile robotic hands
     year: '2025'
   kVyW-LEAAAAJ:5nxA0vEk-isC:
     citations: 9
@@ -56,13 +56,13 @@ papers:
   kVyW-LEAAAAJ:KlAtU1dfN6UC:
     citations: 21
     title: 'Tactile SoftHand-A: 3D-printed, tactile, highly underactuated, anthropomorphic robot hand with an antagonistic tendon mechanism'
-    year: '2024'
+    year: '2026'
   kVyW-LEAAAAJ:L8Ckcad2t8MC:
     citations: 0
     title: 'How to Train your Tactile Model: Tactile Perception with Multi-fingered Robot Hands'
     year: '2026'
   kVyW-LEAAAAJ:MXK_kJrjxJIC:
-    citations: 29
+    citations: 31
     title: 'Biotactip: A soft biomimetic optical tactile sensor for efficient 3d contact localization and 3d force estimation'
     year: '2024'
   kVyW-LEAAAAJ:QIV2ME_5wuYC:
@@ -74,7 +74,7 @@ papers:
     title: "Lepora, NF (2022). BRL/Pisa/IIT SoftHand: A Low-cost, 3D-Printed, Underactuated, Tendon-Driven Hand with Soft and Adaptive Synergies. IEEE Robotics and Automation Letters, 7 (4 \u2026"
     year: Unknown Year
   kVyW-LEAAAAJ:Tyk-4Ss8FVUC:
-    citations: 39
+    citations: 42
     title: Estimation of tool-tissue forces in robot-assisted minimally invasive surgery using neural networks
     year: '2019'
   kVyW-LEAAAAJ:ULOm3_A8WrAC:
@@ -90,7 +90,7 @@ papers:
     title: "Deep-Learning-Based Compliant Motion Control of a Pneumatically-Driven Robotic Catheter................. D. Wu, XT Ha, Y. Zhang, M. Ourak, G. Borghesan, K. Niu, F. Trauzettel \u2026"
     year: Unknown Year
   kVyW-LEAAAAJ:W7OEmFMy1HYC:
-    citations: 6
+    citations: 5
     title: Evaluation of force feedback for palpation and application of active constraints on a teleoperated system
     year: '2019'
   kVyW-LEAAAAJ:WF5omc3nYNoC:
@@ -126,8 +126,8 @@ papers:
     title: A robust controller for stable 3d pinching using tactile sensing
     year: '2021'
   kVyW-LEAAAAJ:_kc_bZDykSQC:
-    citations: 3
-    title: Learning Fine Pinch-Grasp Skills using Tactile Sensing from A Few Real-world Demonstrations
+    citations: 2
+    title: Learning fine pinch-grasp skills using tactile sensing from a few real-world demonstrations
     year: '2023'
   kVyW-LEAAAAJ:d1gkVwhDpl0C:
     citations: 3
@@ -151,7 +151,7 @@ papers:
     year: Unknown Year
   kVyW-LEAAAAJ:mVmsd5A6BfQC:
     citations: 3
-    title: 'Text2Touch: Tactile In-Hand Manipulation with LLM-Designed Reward Functions'
+    title: 'Text2touch: Tactile in-hand manipulation with llm-designed reward functions'
     year: '2025'
   kVyW-LEAAAAJ:qUcmZB5y_30C:
     citations: 0
@@ -160,21 +160,21 @@ papers:
   kVyW-LEAAAAJ:qjMakFHDy7sC:
     citations: 19
     title: Stable pinching by controlling finger relative orientation of robotic fingers with rolling soft tips
-    year: '2017'
+    year: '2018'
   kVyW-LEAAAAJ:qxL8FJ1GzNcC:
-    citations: 30
+    citations: 32
     title: 'Classification of vision-based tactile sensors: A review'
     year: '2025'
   kVyW-LEAAAAJ:roLk4NBRz8UC:
-    citations: 57
+    citations: 59
     title: 'BRL/Pisa/IIT SoftHand: a low-cost, 3D-printed, underactuated, tendon-driven hand with soft and adaptive synergies'
     year: '2022'
   kVyW-LEAAAAJ:u-x6o8ySG0sC:
-    citations: 14
+    citations: 13
     title: A controller for stable grasping and desired finger shaping without contact sensing
     year: '2014'
   kVyW-LEAAAAJ:u5HHmVD_uO8C:
-    citations: 16
+    citations: 17
     title: A simple controller for a variable stiffness joint with uncertain dynamics and prescribed performance guarantees
     year: '2012'
   kVyW-LEAAAAJ:ufrVoPGSRksC:
